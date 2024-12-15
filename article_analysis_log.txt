@@ -1,0 +1,1 @@
+2024-12-15 14:35:14,405 - INFO - Database tables created successfully in C:\Users\Babbadi_vyas\Documents\data_Science project\article_analysis.db
